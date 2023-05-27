@@ -119,7 +119,8 @@ fn init_cells() -> Vec<Cell> {
     }
     out
 }
-
+// **Borrowed** from https://github.com/not-fl3/macroquad/blob/master/examples/life.rs
+// idk how it works but it works
 fn game_logic(cells: &mut Vec<CellState>) {
     let w = (screen_width() / SQUARE_SIZE) as usize + 1;
     let h = (screen_height() / SQUARE_SIZE) as usize + 1;
