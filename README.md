@@ -10,3 +10,7 @@ Running mode runs the simulation.
 - Press space to toggle between Building mode and Running Mode.
 - Press the R key to reset the board.
 - Press the Escape key to quit altogether.
+
+## Screenshots
+![scr1](https://github.com/Quan1umMango/game-of-life-rs/blob/main/screenshots/s1.png)
+![scr2](https://github.com/Quan1umMango/game-of-life-rs/blob/main/screenshots/s2.png)
